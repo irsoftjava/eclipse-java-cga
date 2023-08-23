@@ -6,5 +6,7 @@ public class HolaMundo {
 
 		System.out.println("Hola Mundo, desde Eclipse.");
 	}
+	
+	System.out.println("Prueba para GitHub.");
 
 }
